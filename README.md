@@ -13,3 +13,8 @@ to learn how to write a web application using python
 INSTALLATION
 
 install python
+
+Then run the project like this
+
+cd /path/to/project
+Run python file.py
