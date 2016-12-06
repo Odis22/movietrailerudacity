@@ -16,5 +16,6 @@ install python
 
 Then run the project like this
 
-cd /path/to/project
-Run python file.py
+1. make sure python is installed. 
+2. make sure the files entertainment_center.py, fresh_tomatoes.py, media.py are in the same directory.
+3. run entertainment_center.py in terminal or in the intepreter. It will open the fresh_tomatoes.html browser.
