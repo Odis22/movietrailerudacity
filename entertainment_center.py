@@ -29,6 +29,6 @@ movies = [toy_story,avatar,school_of_rock,love_and_basketball]
 #these are the movies that my website will be showing.
 # Calling open_movies_page definition from fresh_tomatoes library.
 # This definition will create a static webpage for the list of movies 
-fresh_tomatoes.open_movies_page
+fresh_tomatoes.open_movies_page(movies)
 
 
